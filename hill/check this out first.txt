@@ -1,0 +1,13 @@
+instal xampp 
+
+
+run or start apache and mysql
+
+Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs,
+
+open this in your web localhost/hill/
+
+
+
+
+
